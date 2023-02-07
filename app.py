@@ -2,7 +2,7 @@ import streamlit as st
 import openai
 import random
 
-openai.api_key = "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"
+openai.api_key = "OpenAI_key"
 
 prompt = [
     {
